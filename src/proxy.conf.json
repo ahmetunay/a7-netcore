@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+        "target": "https://localhost:44377/api/LogItems",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
